@@ -34,7 +34,7 @@
             {
                 "key": "1",
                 "title": "Front-end",
-                "icon": "https://jasontdg.github.io/testApi/testImg/frontend.svg",
+                "icon": "https://jasontdg.github.io/test-website-ghPages/frontend.svg",
                 "list": [
                     "HTML5、CSS3 撰寫",
                     "Javascript (ES6+) 撰寫",
@@ -47,7 +47,7 @@
             {
                 "key": "1",
                 "title": "UI/UX Design",
-                "icon": "https://jasontdg.github.io/testApi/testImg/uiux.svg",
+                "icon": "https://jasontdg.github.io/test-website-ghPages/uiux.svg",
                 "list": [
                     "多平台 UI 介面設計",
                     "Wireframe 製作",
@@ -63,35 +63,35 @@
                 "list": [
                     {
                         "title": "HTML5",
-                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/html5.svg"
+                        "imgSrc": "https://jasontdg.github.io/test-website-ghPages/html5.svg"
                     },
                     {
                         "title": "CSS",
-                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/css3.svg"
+                        "imgSrc": "https://jasontdg.github.io/test-website-ghPages/css3.svg"
                     },
                     {
                         "title": "SASS",
-                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/sass.svg"
+                        "imgSrc": "https://jasontdg.github.io/test-website-ghPages/sass.svg"
                     },
                     {
                         "title": "Javascript",
-                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/js.svg"
+                        "imgSrc": "https://jasontdg.github.io/test-website-ghPages/js.svg"
                     },
                     {
                         "title": "Vue",
-                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/vue.svg"
+                        "imgSrc": "https://jasontdg.github.io/test-website-ghPages/vue.svg"
                     },
                     {
                         "title": "Nuxt",
-                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/nuxt.svg"
+                        "imgSrc": "https://jasontdg.github.io/test-website-ghPages/nuxt.svg"
                     },
                     {
                         "title": "Gulp",
-                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/gulp.svg"
+                        "imgSrc": "https://jasontdg.github.io/test-website-ghPages/gulp.svg"
                     },
                     {
                         "title": "Webpack",
-                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/webpack.svg"
+                        "imgSrc": "https://jasontdg.github.io/test-website-ghPages/webpack.svg"
                     }
                 ]
             },
@@ -100,23 +100,23 @@
                 "list": [
                     {
                         "title": "Figma",
-                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/figma.svg"
+                        "imgSrc": "https://jasontdg.github.io/test-website-ghPages/figma.svg"
                     },
                     {
                         "title": "Sketch",
-                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/sketch.svg"
+                        "imgSrc": "https://jasontdg.github.io/test-website-ghPages/sketch.svg"
                     },
                     {
                         "title": "XD",
-                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/xd.svg"
+                        "imgSrc": "https://jasontdg.github.io/test-website-ghPages/xd.svg"
                     },
                     {
                         "title": "Photoshop",
-                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/ps.svg"
+                        "imgSrc": "https://jasontdg.github.io/test-website-ghPages/ps.svg"
                     },
                     {
                         "title": "Illustrator",
-                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/ai.svg"
+                        "imgSrc": "https://jasontdg.github.io/test-website-ghPages/ai.svg"
                     }
                 ]
             }

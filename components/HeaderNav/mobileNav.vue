@@ -34,17 +34,17 @@
         </div>
         <div class="inner_box container">
             <NuxtLink class="logo_box" href="/" title="Janyu" target="_self">
-                <img class="image" src="logo.svg" alt="Janyu" width="104" height="54">
+                <img class="image" src="/logo.svg" alt="Janyu" width="104" height="54">
             </NuxtLink> 
             <ul class="mobile_nav_list">
                 <li class="mobile_list">
-                    <NuxtLink class="link" href="/" title="作品案例" target="_self" @click="closeMobileNav">作品案例</NuxtLink>
+                    <NuxtLink class="link" to="/" title="作品案例" target="_self" @click="closeMobileNav">作品案例</NuxtLink>
                 </li>
                 <li class="mobile_list">
-                    <NuxtLink class="link" href="/about" title="關於我" target="_self" @click="closeMobileNav">關於我</NuxtLink>
+                    <NuxtLink class="link" to="/about" title="關於我" target="_self" @click="closeMobileNav">關於我</NuxtLink>
                 </li>
                 <li class="mobile_list">
-                    <NuxtLink class="link" href="#contact" title="與我聯繫" target="_self" @click="closeMobileNav">與我聯繫</NuxtLink>
+                    <a class="link" href="#contact" title="與我聯繫" target="_self" @click="closeMobileNav">與我聯繫</a>
                 </li>
             </ul>
             <div class="social_media">
