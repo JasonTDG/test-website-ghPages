@@ -20,16 +20,9 @@
                 </div>
                 <div class="intro_box">
                     <p class="intro_text">
-                        具有3年UI/UX及前端經驗的設計師。
+                        擁有4年的網頁設計經驗，<br>
+                        從同時學習設計和程式，到決心專注前端開發。
                     </p>
-                    <!-- <div class="slogan_box">
-                        <span class="text">我喜歡製作</span>
-                        <swiper-container class="swiper-container carousel_box" speed="4000" direction="'vertical'">
-                            <swiper-slide class="swiper-slide carousel_text"><h4>能夠解決問題</h4></swiper-slide>
-                            <swiper-slide class="swiper-slide carousel_text"><h4>能夠帶來便利</h4></swiper-slide>
-                        </swiper-container>
-                        <span class="text">的設計</span>
-                    </div>     -->
                 </div>
             </div>
             <div class="image_box">
