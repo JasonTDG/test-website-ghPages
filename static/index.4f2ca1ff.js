@@ -1,0 +1,1 @@
+import{o as n,c as o,a as e,t as s}from"./entry.697cc511.js";const a={class:"mainTitle_box"},c={class:"chinese"},i={class:"en"},_={__name:"index",props:{title:{type:String,default:""},enTitle:{type:String,default:""}},setup(t){return(l,r)=>(n(),o("div",a,[e("p",c,s(t.title),1),e("p",i,s(t.enTitle),1)]))}},d=_;export{d as _};
