@@ -1,0 +1,129 @@
+{
+    "about": {
+        "intro": {
+            "title": "我是 Janyu",
+            "text": "從介面設計轉職前端，擁有4年的網頁設計經驗。結合設計和開發技能，從使用者的角度思考問題，並且評估執行的可行性，提升使用者視覺與操作體驗。"
+        },
+        "experience": [
+            {
+                "key": "1",
+                "title": "網頁前端設計師",
+                "company": "台北數位廣告股份有限公司",
+                "time": "2019年 11月 - 目前",
+                "list": [
+                    "前端程式執行",
+                    "與 PM、設計師、工程師討論，規劃各項開發需求",
+                    "負責客製化、模板網頁及mobile UI/UX 設計",
+                    "參與使用者研究",
+                    "製作 Wireframe、Mockup 和 Prototype 原型"
+                ]
+            },
+            {
+                "key": "2",
+                "title": "影片、平面設計",
+                "company": "新台豐國際事業有限公司",
+                "time": "2019年 6月 - 2019年 11月 ",
+                "list": [
+                    "與行銷人員討論產品短影片的流程",
+                    "負責所有的拍攝、剪輯產出",
+                    "製作社群平台所需的圖片、Banner"
+                ]
+            }
+        ],
+        "skill": [
+            {
+                "key": "1",
+                "title": "Front-end",
+                "icon": "https://jasontdg.github.io/testApi/testImg/frontend.svg",
+                "list": [
+                    "HTML5、CSS3 撰寫",
+                    "Javascript (ES6+) 撰寫",
+                    "Vue3、Nuxt3 應用",
+                    "RWD響應式網頁設計",
+                    "Webpack打包工具使用",
+                    "Git 版本控管"
+                ]
+            },
+            {
+                "key": "1",
+                "title": "UI/UX Design",
+                "icon": "https://jasontdg.github.io/testApi/testImg/uiux.svg",
+                "list": [
+                    "多平台 UI 介面設計",
+                    "Wireframe 製作",
+                    "Prototype 原型設計",
+                    "使用者研究及測試",
+                    "Figma、Adobe XD 等設計軟體"
+                ]
+            }
+        ],
+        "tool": [
+            {
+                "key": "Font-End",
+                "list": [
+                    {
+                        "title": "HTML5",
+                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/html5.svg"
+                    },
+                    {
+                        "title": "CSS",
+                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/css3.svg"
+                    },
+                    {
+                        "title": "SASS",
+                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/sass.svg"
+                    },
+                    {
+                        "title": "Javascript",
+                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/js.svg"
+                    },
+                    {
+                        "title": "Vue",
+                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/vue.svg"
+                    },
+                    {
+                        "title": "Nuxt",
+                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/nuxt.svg"
+                    },
+                    {
+                        "title": "Gulp",
+                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/gulp.svg"
+                    },
+                    {
+                        "title": "Webpack",
+                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/webpack.svg"
+                    }
+                ]
+            },
+            {
+                "key": "Design",
+                "list": [
+                    {
+                        "title": "Figma",
+                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/figma.svg"
+                    },
+                    {
+                        "title": "Sketch",
+                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/sketch.svg"
+                    },
+                    {
+                        "title": "XD",
+                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/xd.svg"
+                    },
+                    {
+                        "title": "Photoshop",
+                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/ps.svg"
+                    },
+                    {
+                        "title": "Illustrator",
+                        "imgSrc": "https://jasontdg.github.io/testApi/testImg/ai.svg"
+                    }
+                ]
+            }
+        ]
+
+        
+    }
+
+    
+}
